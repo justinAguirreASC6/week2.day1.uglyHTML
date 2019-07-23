@@ -4,6 +4,24 @@ html{
 div{
     background-color: rgb(53,53,53);
 }
-header{
-    <font color="whitesmoke"> Generic Watches Site </font>
+div{
+      text-align: center
+}
+#title{
+    font-family: Tangerine;
+    font-size: 72px;
+    color: whitesmoke;
+    margin: 20px;
+}
+#p2{
+    font-family: Unica One;
+    font-size: 26px;
+    color: whitesmoke;
+    margin: 0%;
+}
+#p3{
+    font-family: Unica One;
+    font-size: 26px;
+    color: whitesmoke;
+    margin: 0%;
 }
